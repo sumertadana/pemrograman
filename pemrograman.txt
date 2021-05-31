@@ -1,0 +1,6 @@
+Langkah-langkah membuat web
+- Perencanaan
+- Analisis
+- Desain
+- Pengembangan
+- Implementasi
