@@ -1,7 +1,7 @@
 Langkah-langkah membuat web
-- Perencanaan
 - Analisis
 - Desain
 - Pengembangan
 - Implementasi
 - Pengoperasian dan Pemeliharaan
+- Maintenance
